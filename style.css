@@ -2,7 +2,13 @@
     width: 200px;
     height: 300px;
 }
-.container{
+.container_header{
+    padding-top: 10px;
+    height: 100px;
     position: static;
-    background-color: blue;
+    background-color: brown;
+}
+#nome_organização{
+    height: 100px;
+    position: relative;
 }
